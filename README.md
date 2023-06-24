@@ -1,5 +1,5 @@
 # Paint
-## You can change color/size
+
 ![image](https://github.com/vlantonakos/Paint/assets/107072477/32f3e0e0-74a3-4791-84c0-b3a78ee0db79)
 ## You can save the drawing, clear and exit the program
 ![image](https://github.com/vlantonakos/Paint/assets/107072477/f3b1c0cd-19df-4c1a-9106-22dd19d06fdb)
